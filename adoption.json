@@ -30,7 +30,7 @@
     "sexe": "Mâle",
     "vaccine": false,
     "sterilise": true,
-    "statut": "A adopter",
+    "statut": "Déjà adopté",
     "urgent": true,
     "photo_url": "https://drive.google.com/thumbnail?id=1Cn5bWfDajcXL-n160CHiTFTABZnzYu3d&sz=w1000",
     "autre_photo": [
@@ -50,7 +50,7 @@
     "sexe": "Femelle",
     "vaccine": true,
     "sterilise": true,
-    "statut": "A adopter",
+    "statut": "Réservé",
     "urgent": false,
     "photo_url": "https://drive.google.com/thumbnail?id=1qR-QrBbU5GqCDbzqOGlDbaZcyAYcc5cG&sz=w1000",
     "autre_photo": []
